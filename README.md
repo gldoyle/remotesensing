@@ -1,6 +1,4 @@
-# Remote Sensing Education
-
-Literature Review on Effective Teaching in Remote Sensing and Spectral Analysis 
+# Literature Review on Effective Teaching in Remote Sensing and Spectral Analysis 
 
 ### Eye Learn: An interactive WEB based e-Learning Environment in Photogrammetry and Remote Sensing
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8336&rep=rep1&type=pdf
@@ -47,8 +45,15 @@ https://peer.asee.org/design-of-a-module-for-teaching-learning-spectral-analysis
 ** Pg 114: physics of multispectral scanners
 * Landsat Orbital Characteristics
 ** Also describes the different uses for Landsat bands! Will be helpful (pg 142)
+* NOAA bands and uses
+** Could be useful if this is data accessible via GEE
+* Radar, SAR
+* Species Identification Characteristics
 
-
+Remote Sensing of the Environment
+* Chapter on Remote Sensing of Water
+* Chapter on Remote Sensing of Vegetation
+* These are a bit more technical than I would like to go in my lessons
 
 
 
