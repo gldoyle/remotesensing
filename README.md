@@ -50,11 +50,27 @@ https://peer.asee.org/design-of-a-module-for-teaching-learning-spectral-analysis
 * Radar, SAR
 * Species Identification Characteristics
 
-Remote Sensing of the Environment
+#### Remote Sensing of the Environment
 * Chapter on Remote Sensing of Water
 * Chapter on Remote Sensing of Vegetation
 * These are a bit more technical than I would like to go in my lessons
 
+#### Remote Sensing and Image Processing
+* Interesting chapter on graphical representation of the spectral response pattern
+** Would be useful if going into details about classification (pg 599)
+* Unsupervised and supervised classification
+
+#### Remote Sensing: Principles and Interpretation
+* Spectral Reflectance (pg. 47)
+* Briefly touches upon characteristics of the eye and vision which is interesting
+* Extensive chapter on Landsat imagery and geological applications of remote sensing across a variety of geographic locations (e.g. fault lines)
+
+### Articles with intriguing abstracts that I don't have accesss to:
+* Education for Cartography and Remote Sensing In the Service of an Information Society: The U.S. Case
+https://www.tandfonline.com/doi/pdf/10.1559/152304086783900202?needAccess=true
+
+* Integrating applied remote sensing methodology in secondary education
+https://ieeexplore.ieee.org/abstract/document/4423264
 
 
 
