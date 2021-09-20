@@ -4,7 +4,7 @@ Literature Review on Effective Teaching in Remote Sensing and Spectral Analysis
 
 ## Eye Learn: An interactive WEB based e-Learning Environment in Photogrammetry and Remote Sensing
 https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.8336&rep=rep1&type=pdf
-Problems in the field of remote sensing education online courses and exercises exist for RS and photogrammetry but have poor structure, are very static and are either targeted for high-level students or are very broad
+*Problems in the field of remote sensing education online courses and exercises exist for RS and photogrammetry but have poor structure, are very static and are either targeted for high-level students or are very broad
 
 The RS units are thematic modules, some of them taught by specialists –. Meaning students have to adapt to different teaching methods
 
