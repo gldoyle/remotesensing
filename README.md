@@ -65,7 +65,7 @@ https://peer.asee.org/design-of-a-module-for-teaching-learning-spectral-analysis
 * Briefly touches upon characteristics of the eye and vision which is interesting
 * Extensive chapter on Landsat imagery and geological applications of remote sensing across a variety of geographic locations (e.g. fault lines)
 
-### Articles with intriguing abstracts that I don't have accesss to:
+## Articles with intriguing abstracts that I don't have accesss to:
 * Education for Cartography and Remote Sensing In the Service of an Information Society: The U.S. Case
 https://www.tandfonline.com/doi/pdf/10.1559/152304086783900202?needAccess=true
 
