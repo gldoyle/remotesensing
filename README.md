@@ -16,5 +16,38 @@ Target audience: students in Bachelor in Geomatics Engineering and Planning and 
 “Emphasis will be given to the understanding of theory through own problem solving oriented work. Evaluation and self-evaluation procedures will allow better control of what is learnt and how well and will allow a refinement of the e-Learning environment.” 
 
 
+## The Making of a Joint E-Learning Platform for Remote Sensing Education: Experiences and Lessons Learned
+
+https://www.mdpi.com/2072-4292/13/9/1718/htm
+
+20 modules where the first half focuses on building the basis for application of Remote Sensing where the second half focuses on providing different ways of mapping and supporting the specific situation
+
+Text format with imagery, audio and video material embedded into modules
+
+Quiz tool at the end which was implemented for self-assessment at the final stage of the module
+
+Difficulty: processing techniques and methods are tailored to specific local environmental phenomena, adnt hus are not readily adaptable to other geographic locations
+
+Relied on open source software (QGIS, Snap and R)
+
+## ESRI tools ---> Learn ArcGIS: Get started with multidimensional multispectral imagery
+
+“Use a multidimensional stack of Landsat imagery to visualize how a Chilean copper mine has changed over time.”
+
+Learn how to enhance spectral information
+
+Not super interactive –> follow written instructions on a page to download data etc into ArcGIS pro 
+
+Other modules include: explore dynamic imagery of volcanic eruption (smoke-penetrating SWIR band combo), assess burn scars with satellite imagery (calculate a burn index using imagery bands to measure fires in Montana), Calculate impervious surfaces from spectral imagery (through classification), assess hail damage in cornfields with satellite imagery
+
+## Smith et al: Design of a module for teaching/learning spectral analysis
+
+https://peer.asee.org/design-of-a-module-for-teaching-learning-spectral-analysis
+
+Focused primarily on biomedical applications
+Encourages constructive use of the interactive demonstration
+
+
+
 
 
