@@ -13,6 +13,8 @@ Below is a link which will take you to Google Earth Engine where you will be abl
 
 Before you navigate to GEE, however, let's discuss what you'll be seeing there. 
 
+![](gee.png)
+
 https://code.earthengine.google.com/?scriptPath=users%2Fgldoyle%2Fgeog700%3Aburnscar
 
 
