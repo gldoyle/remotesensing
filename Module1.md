@@ -11,7 +11,7 @@ with this GEE script, you'll be able to see what burn scars look like in satelli
 
 Below is a link which will take you to Google Earth Engine where you will be able to access the burn scar interactive tool.
 
-By running the script you will see a map with layers that can be turned on 
+Before you navigate to GEE, however, let's discuss what you'll be seeing there. 
 
 https://code.earthengine.google.com/?scriptPath=users%2Fgldoyle%2Fgeog700%3Aburnscar
 
