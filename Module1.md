@@ -1,7 +1,3 @@
-## About this project:
-
-## Introduction:
-
 ## Module 1:
 
 To begin to appreciate the world beyond the visible light spectrum, we will look at how false color composites can highlight or enhance trends that natural color composites can't capture.
@@ -15,5 +11,11 @@ susceptible to future wildfires.
 
 In this first tutorial we'll look at Australia after the 2020 bushfires. By interacting
 with this GEE script, you'll be able to see what burn scars look like in satellite imagery (in this case, the MODIS dataset)
+
+Below is a link which will take you to Google Earth Engine where you will be able to access the interactive tools.
+
+https://code.earthengine.google.com/?scriptPath=users%2Fgldoyle%2Fgeog700%3Aburnscar
+
+
 
 `var test = function`
