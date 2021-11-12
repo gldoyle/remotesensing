@@ -1,5 +1,9 @@
 # An Exploration in Remote Sensing Techniques: Harnessing the Power of Satellite Imagery to Look Beyond the Visible Light Spectrum
 
+Gretchen Doyle
+Middlebury College 
+Candidate for BA in Geography/Computer Science
+
 ## Tutorial 1
 
 To begin to appreciate the world beyond the visible light spectrum, we will look at how false color composites can highlight or enhance trends that natural color composites can't capture.
