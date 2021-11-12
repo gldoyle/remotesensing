@@ -1,8 +1,8 @@
 # An Exploration in Remote Sensing Techniques: Harnessing the Power of Satellite Imagery to Look Beyond the Visible Light Spectrum
 
-Gretchen Doyle\
-Middlebury College\ 
-Candidate for BA in Geography/Computer Science\
+Gretchen Doyle \
+Middlebury College \ 
+Candidate for BA in Geography/Computer Science
 
 ## Tutorial 1
 
