@@ -21,9 +21,18 @@ Here is an image of what the application looks like. The image on the left of th
 
 You can change the layers to display the false color composites which use band combinations beyond the visible light spectrum to help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see.
 
-## Link to code
+### Link to code
 
 https://code.earthengine.google.com/?scriptPath=users%2Fgldoyle%2Fgeog700%3Aburnscar
+
+### Questions to consider:
+1. What differences do you notice between natural color and false color composites?
+
+## Vegetation Tutorial
+
+Now that you've had a chance to look at burn scars from wildfires we will look at vegetation using natural and false color composites. 
+
+
 
 
 
