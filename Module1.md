@@ -6,7 +6,7 @@ This tutorial is based on Google Earth Engine (GEE) scripts which are suitable f
 
 First, let's look at how we can identify burn scars in landscapes after wildfires. Satellite imagery is often used to track wildfires as they happen, evaluate the extent of the damage in the aftermath of the disaster, and to predict which areas are more susceptible to future wildfires.
 
-### Google Earth Engine Burn Scar Tutorial
+## Google Earth Engine Burn Scar Tutorial
 
 In this first tutorial we'll look at Australia after the 2020 bushfires. By interacting
 with this GEE script, you'll be able to see what burn scars look like in satellite imagery (in this case, the MODIS dataset)
@@ -21,8 +21,8 @@ Here is an image of what the application looks like. The image on the left of th
 
 You can change the layers to display the false color composites which use band combinations beyond the visible light spectrum to help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see.
 
-### Link to code
----
+## Link to code
+
 https://code.earthengine.google.com/?scriptPath=users%2Fgldoyle%2Fgeog700%3Aburnscar
 
 
