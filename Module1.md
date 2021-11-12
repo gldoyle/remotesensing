@@ -13,7 +13,9 @@ Below is a link which will take you to Google Earth Engine where you will be abl
 
 Before you navigate to GEE, however, let's discuss what you'll be seeing there. 
 
-[Uploading gee.png…]()
+
+<img width="1188" alt="gee" src="https://user-images.githubusercontent.com/63744379/141497446-934ba6c2-b82b-4cc0-ae73-8dc337bc70d5.png">
+
 
 
 https://code.earthengine.google.com/?scriptPath=users%2Fgldoyle%2Fgeog700%3Aburnscar
