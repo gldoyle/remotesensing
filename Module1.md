@@ -57,6 +57,11 @@ Now that you've been introducted to false and natural color composites, navigate
 Now that you've had a chance to look at burn scars from wildfires we will look at vegetation using natural and false color composites. 
 
 
+https://gldoyle.users.earthengine.app/view/vegetationtutorial
+
+
+
+
 
 
 
