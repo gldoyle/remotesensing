@@ -52,15 +52,23 @@ Now that you've been introducted to false and natural color composites, navigate
 2. Do you notice other features aside from burn scars that become either easier or harder to detect with the false color composite?
 3. How do you think the bands for the false color composite were chosen?
 
-## Vegetation Tutorial
+## Google Earth Engine Vegetation Tutorial
 
-Now that you've had a chance to look at burn scars from wildfires we will look at vegetation using natural and false color composites. 
+Now that you've had a chance to look at burn scars from wildfires we will look at vegetation using natural and false color composites. In this tutorial we will also look at the Normalized Difference Vegetation Index (NDVI).
 
+In remote sensing, band indices such as NDVI are combinations of pixel values from 2 or more spectral bands in a multispectral image. They are used to highlight specific aspects of land cover, for example, the NDVI is a good demonstrator of vegetation health.
 
+In the following tutorial you'll get to look at natural and false color composites in a new context, and you'll also get to explore a new concept.
+
+### Link to code
 https://gldoyle.users.earthengine.app/view/vegetationtutorial
 
-
-
+### Questions to consider:
+1. What advantages does displaying an NDVI have?
+2. What are colors in the NDVI image representing?
+3. Why does the NDVI image look so difference from the natural and false color composites?
+4. What does bright red represent in the false color composite?
+5. Do you notice changes in the Amazon from 2014 to 2020?
 
 
 
