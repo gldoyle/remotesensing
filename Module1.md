@@ -27,6 +27,19 @@ Here is an image of what the application looks like. The image on the left of th
 
 You can change the layers to display the false color composites which use band combinations beyond the visible light spectrum to help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see.
 
+### Natural Color and False Color Composites
+The satellite images you'll look at are comprised of pixels which are represented through three values: Red, Green and Blue which are the channels that 
+a computer outputs when visualizing the image. The human eye can only see part of the Electromagnetic Spectrum, called the "Visible light spectrum". When we use the red, green and blue bands of the satellite imagery to correspond to the computer's red, green and blue outputs, this is what our eyes would naturally see. Luckily, satellites collect data beyond just the visible light spectrum and we can use that data to gain insight into changes on the ground. This is where false color composites come into play. False color images are multi-spectral images that use bands other than visble red, green and blue as the corresponding red, green and blue components of the computer's image display. 
+
+So why is this useful to us?
+
+Different features on the ground like snow, vegetation and urban areas (to name a few) have different spectral signatures which represent their variation of reflectance of wavelengths. Healthy vegetation, for example, has a notably high reflectance in the Near Infrared section of the Electromagnetic Spectrum so by using bands in that spectral range, we can more easily differentiate healthy vegetation from other features.
+
+False color composites allow us to visualize wavelengths that the human eye can not see (i.e. near-infrared). Using bands such as near infra-red increases the differences in spectral signatures from various features, which can also us to identify them more easily. Knowledge of the spectral signature of a feature of interest is vital in finding the best visualization for it given a specific satllite image. In this tutorial, the bands for visualizing burn scars in a false color 
+composite have already been chosen for you so you don't have to worry about finding the exact combination to properly identify the scars!
+
+Now that you've been introducted to false and natural color composites, navigate to the tutorial and see what you find.
+
 ### Link to code
 <div>
 <figure class="video_container">
@@ -35,7 +48,9 @@ You can change the layers to display the false color composites which use band c
 </div>
 
 ### Questions to consider:
-1. What differences do you notice between natural color and false color composites?
+1. What differences do you notice between natural color and false color composites (if any)?
+2. Do you notice other features aside from burn scars that become either easier or harder to detect with the false color composite?
+3. How do you think the bands for the false color composite were chosen?
 
 ## Vegetation Tutorial
 
