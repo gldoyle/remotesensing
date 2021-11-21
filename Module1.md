@@ -29,6 +29,16 @@ You can change the layers to display the false color composites which use band c
 
 ### Link to code
 
+<iframe
+	src="https://gldoyle.users.earthengine.app/view/burnscarexploration"
+	width="700"
+	height="394"
+	frameborder="0"
+	webkitallowfullscreen
+	mozallowfullscreen
+	allowfullscreen
+></iframe>
+
 https://code.earthengine.google.com/?scriptPath=users%2Fgldoyle%2Fgeog700%3Aburnscar
 
 ### Questions to consider:
