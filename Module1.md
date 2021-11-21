@@ -72,6 +72,6 @@ https://gldoyle.users.earthengine.app/view/vegetationtutorial
 4. What does bright red represent in the false color composite?
 5. Do you notice changes in the Amazon from 2014 to 2020?
 
-
+If you are interested in looking at different regions, use the tutorial as a base and use zoom/pan to find a particular region to look at! One future investigation could be to look at how the NDVI shows differences between tropical places like the Amazon versus more arid places like countries in Northern Africa.
 
 
