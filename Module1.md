@@ -60,6 +60,8 @@ In remote sensing, band indices such as NDVI are combinations of pixel values fr
 
 In the following tutorial you'll get to look at natural and false color composites in a new context, and you'll also get to explore a new concept.
 
+<img width="1063" alt="Screen Shot 2021-11-21 at 12 38 26 PM" src="https://user-images.githubusercontent.com/63744379/142772935-828225ad-b568-4e3f-9bba-814d4740a546.png">
+
 ### Link to code
 https://gldoyle.users.earthengine.app/view/vegetationtutorial
 
