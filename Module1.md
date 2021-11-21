@@ -30,15 +30,7 @@ You can change the layers to display the false color composites which use band c
 ### Link to code
 <div>
 <figure class="video_container">
-<iframe src=
-
-
-          
-            
-              Burnscar_Exploration
-            
-
-          
+<iframe src=  Burnscar_Exploration
 ></iframe>
 </figure>
 </div>
