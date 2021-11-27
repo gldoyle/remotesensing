@@ -6,7 +6,7 @@ Candidate for BA in Geography/Computer Science
 
 ## Introduction
 
-This tutorial is designed for students who are looking to explore the power of remote sensing tools through interactive apps which they will be guided through. It was created for students in their late high school or early college career who have limited to no experience with remote sensing but understand the basics of the Electromagnetic Radiation (EMR) and the RGB color model that is used in digital image displays. If you are interested in using the following modules to get a glimpse of some of the things you can do with remote sensing, but don't have this background knowledge- explore those topics and come back here when you're ready!
+This tutorial is designed for students who are looking to explore the power of **remote sensing** tools through interactive apps which they will be guided through. It was created for students in their late high school or early college career who have limited to no experience with remote sensing but understand the basics of the Electromagnetic Radiation (EMR) and the RGB color model that is used in digital image displays. If you are interested in using the following modules to get a glimpse of some of the things you can do with remote sensing, but don't have this background knowledge- explore those topics and come back here when you're ready!
 
 ## Tutorial 1
 
