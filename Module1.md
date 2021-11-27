@@ -1,31 +1,48 @@
-# An Exploration in Remote Sensing Techniques: Harnessing the Power of Satellite Imagery to See Beyond the Visible Light Spectrum
+# Beyond the Visible Light Spectrum
 
 [Gretchen Doyle](https://github.com/gldoyle?tab=repositories)<br/>
 Middlebury College<br/>
 Candidate for BA in Geography/Computer Science  
 
+## Introduction
+
+This tutorial is designed for students who are looking to explore the power of remote sensing tools through interactive apps which they will be guided through. It was created for students in their late high school or early college career who have limited to no experience with remote sensing but understand the basics of the Electromagnetic Radiation (EMR) and the RGB color model that is used in digital image displays. If you are interested in using the following modules to get a glimpse of some of the things you can do with remote sensing, but don't have this background knowledge- explore those topics and come back here when you're ready!
+
 ## Tutorial 1
 
-To begin to appreciate the world beyond the visible light spectrum, we will look at how false color composites can highlight or enhance trends that natural color composites can't capture.
+To begin to appreciate the world beyond the visible light spectrum, we will look at how utilizing image bands beyond the visible light spectrum can enhance trends that are more difficult to pick up on when you are only observing images through the traditional bands (ones that mimick the way our eyes would naturally process visual information). 
 
-This tutorial is based on Google Earth Engine (GEE) scripts which are suitable for learning remote sensing concepts due to the fact that the platform is open-sourced meaning anyone can access these tools and also because through interaction with these tools, those interested can gain practice in using different spectral bands to visualize the world in new ways.
+Images displaying a combination of visible red, blue and green bands to the corresponding red, blue and greens channels in the digital display is what is referred to in the remote sensing world as a **natural color composite**. Natural color composites are also called true color composites and images displayed using this method look like what the natural world looks like to you.
 
-First, let's look at how we can identify burn scars in landscapes after wildfires. Satellite imagery is often used to track wildfires as they happen, evaluate the extent of the damage in the aftermath of the disaster, and to predict which areas are more susceptible to future wildfires.
+Below is a natural color composite image of the United States
 
-## Google Earth Engine Burn Scar Tutorial
+<img width="642" alt="nat color" src="https://user-images.githubusercontent.com/63744379/143723754-f56bb74a-38e3-44bd-9ffa-fad99307e966.png">
 
-In this first tutorial we'll look at Australia after the 2020 bushfires. By interacting
-with this GEE script, you'll be able to see what burn scars look like in satellite imagery (in this case, the MODIS dataset)
 
-Below is a link which will take you to Google Earth Engine where you will be able to access the burn scar interactive tool.
+Conversely, a **false color composite** is a multi-spectral image that uses bands other than visible red, green and blue which allows us to visualize wavelengths that the human eye can't see. 
 
-Before you navigate to GEE, however, let's discuss what you'll be seeing there.
+And here is what one false color composite of the United States looks like. 
+
+<img width="635" alt="false color" src="https://user-images.githubusercontent.com/63744379/143723756-2d7f41d6-4bb1-4dab-94cc-ff4a5776cfae.png">
+
+Since false color composites incorporate bands beyond the visible light specturm, there are many combinations of bands which would constitute a false color composite and the combination that people choose to use depends on the feature in the landscape that they are trying to highlight.
+
+In this first tutorial we'll look at how we can identify burn scars in landscapes after wildfires. Satellite imagery is often used to track wildfires as they happen, evaluate the extent of the damage in the aftermath of the disaster, and to predict which areas are more susceptible to future wildfires.
+
+## Burn Scar Tutorial
+
+We will begin by looking at Australia after the 2020 bushfires. By interacting
+with this app, you'll be able to see what burn scars look like in satellite imagery.
+
+Below is a link which will redirect you to the burn scar interactive tool.
+
+Before you navigate to the app, however, let's discuss what you'll be seeing there.
 
 Here is an image of what the application looks like. The image on the left of the slider represents what the landscape in Australia looked like before the wildfires devastated the region and the right image depicts the landscape post-wildfire. The default display is natural color composites which show what the landscape looks like in the visible light spectrum (which is the section of the Electromagentic Spectrum which the human eye can see). The satellites that acquire images of the Earth also collect information beyond the visible light spectrum which is a powerful way to visualize features since we can use different spectral bands.
 
 <img width="1000" alt="gee" src="https://user-images.githubusercontent.com/63744379/141497446-934ba6c2-b82b-4cc0-ae73-8dc337bc70d5.png">
 
-You can change the layers to display the false color composites which use band combinations beyond the visible light spectrum to help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see.
+You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see.
 
 ### Natural Color and False Color Composites
 The satellite images you'll look at are comprised of pixels which are represented through three values: Red, Green and Blue which are the channels that 
@@ -52,7 +69,7 @@ Now that you've been introducted to false and natural color composites, navigate
 2. Do you notice other features aside from burn scars that become either easier or harder to detect with the false color composite?
 3. How do you think the bands for the false color composite were chosen?
 
-## Google Earth Engine Vegetation Tutorial
+## Vegetation Tutorial
 
 Now that you've had a chance to look at burn scars from wildfires we will look at vegetation using natural and false color composites. In this tutorial we will also look at the Normalized Difference Vegetation Index (NDVI).
 
