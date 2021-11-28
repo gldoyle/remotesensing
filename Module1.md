@@ -41,8 +41,7 @@ Before you navigate to the app, however, let's discuss what you'll be seeing the
 Here is an image of what the application looks like. The image on the left of the slider represents what the landscape in Australia looked like before the wildfires devastated the region and the right image depicts the landscape post-wildfire. The default display is natural color composites which show what the landscape looks like in the visible light spectrum (which is the section of the Electromagentic Spectrum which the human eye can see). The satellites that acquire images of the Earth also collect information beyond the visible light spectrum which is a powerful way to visualize features since we can use different spectral bands.
 
 
-https://user-images.githubusercontent.com/63744379/143724680-33c0d2ff-1024-4d8e-8d3c-c2331dc19c82.mp4
-
+https://user-images.githubusercontent.com/63744379/143724706-15a6d934-82fe-457a-9f4c-4c68c440e7bf.mp4
 
 
 <img width="1000" alt="gee" src="https://user-images.githubusercontent.com/63744379/141497446-934ba6c2-b82b-4cc0-ae73-8dc337bc70d5.png">
