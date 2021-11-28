@@ -38,19 +38,11 @@ Below is a link which will redirect you to the burn scar interactive tool.
 
 Before you navigate to the app, however, let's discuss what you'll be seeing there.
 
-Here is an image of what the application looks like. The image on the left of the slider represents what the landscape in Australia looked like before the wildfires devastated the region and the right image depicts the landscape post-wildfire. The default display is natural color composites which show what the landscape looks like in the visible light spectrum (which is the section of the Electromagentic Spectrum which the human eye can see). The satellites that acquire images of the Earth also collect information beyond the visible light spectrum which is a powerful way to visualize features since we can use different spectral bands.
+Here is what the application looks like. The image on the left of the slider represents what the landscape in Australia looked like before the wildfires devastated the region and the right image depicts the landscape post-wildfire. The default display is natural color composites which show what the landscape looks like in the visible light spectrum (which is the section of the Electromagentic Spectrum which the human eye can see). The satellites that acquire images of the Earth also collect information beyond the visible light spectrum which is a powerful way to visualize features since we can use different spectral bands.
 
 ![demo](https://user-images.githubusercontent.com/63744379/143724812-214d1f01-f036-48dd-abbf-3a99a804ccf4.gif)
 
-
-
-
-https://user-images.githubusercontent.com/63744379/143724706-15a6d934-82fe-457a-9f4c-4c68c440e7bf.mp4
-
-
-<img width="1000" alt="gee" src="https://user-images.githubusercontent.com/63744379/141497446-934ba6c2-b82b-4cc0-ae73-8dc337bc70d5.png">
-
-You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see.
+You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see. To do this, navigate to the 'Layers' widget in the upper right corner to turn on different composite layers for each side of the panel. 
 
 ### Natural Color and False Color Composites
 The satellite images you'll look at are comprised of pixels which are represented through three values: Red, Green and Blue which are the channels that 
