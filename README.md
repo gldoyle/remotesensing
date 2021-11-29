@@ -4,4 +4,7 @@ In this repository you will find educational tools to help students with some ba
 sensing, gain familiarity with remote sensing without having to have any sort of GIS or coding background. All the scripts were written in Google Earth Engine
 which a useful open source platform meaning those are interested can learn to create their own scripts to visualize different environmental phenomena across space and time.
 
+The tutorials will focus on identifying burn scars in landscapes in the aftermath of wildfires and students will learn about natural and false color composites, band indices and spectral signatures.
+
+
 
