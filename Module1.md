@@ -49,11 +49,7 @@ In this example, you can see some of the burn scars faintly appear by using the 
 False color composites allow us to visualize wavelengths that the human eye can not see (i.e. near-infrared). Using bands such as near-infrared increases the differences in spectral signatures from various features, which can also us to identify them more easily. Knowledge of the spectral signature of a feature of interest is vital in finding the best visualization for it given a specific satllite image. In this tutorial, the bands for visualizing burn scars in a false color composite have already been chosen for you so you don't have to worry about finding the exact combination to properly identify the scars!
 
 ### Link to code
-<div>
-<figure class="video_container">
-<iframe src="https://gldoyle.users.earthengine.app/view/burnscarexploration" ></iframe>
-</figure>
-</div>
+https://gldoyle.users.earthengine.app/view/burnscarexploration
 
 ### Burn Scar in California
 
