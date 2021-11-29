@@ -44,18 +44,9 @@ Here is what the application looks like. The image on the left of the slider rep
 
 You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see. To do this, navigate to the 'Layers' widget in the upper right corner to turn on different composite layers for each side of the panel. 
 
-### Natural Color and False Color Composites
-The satellite images you'll look at are comprised of pixels which are represented through three values: Red, Green and Blue which are the channels that 
-a computer outputs when visualizing the image. The human eye can only see part of the Electromagnetic Spectrum, called the "Visible light spectrum". When we use the red, green and blue bands of the satellite imagery to correspond to the computer's red, green and blue outputs, this is what our eyes would naturally see. Luckily, satellites collect data beyond just the visible light spectrum and we can use that data to gain insight into changes on the ground. This is where false color composites come into play. False color images are multi-spectral images that use bands other than visble red, green and blue as the corresponding red, green and blue components of the computer's image display. 
+In this example, you can see some of the burn scars faintly appear by using the slider to see the before and after images and areas of change. Notice how when you turn on the false color composite layers to visualize the scene before and after the Australian bushfires, the change is more distinct. In this case we are using bands other than the traditional Red, Green and Blue to get a better picture of the burn scars based on their **spectral signatures** (the variation of reflectance of an object on the ground with respect to wavelengths). 
 
-So why is this useful to us?
-
-Different features on the ground like snow, vegetation and urban areas (to name a few) have different spectral signatures which represent their variation of reflectance of wavelengths. Healthy vegetation, for example, has a notably high reflectance in the Near Infrared section of the Electromagnetic Spectrum so by using bands in that spectral range, we can more easily differentiate healthy vegetation from other features.
-
-False color composites allow us to visualize wavelengths that the human eye can not see (i.e. near-infrared). Using bands such as near infra-red increases the differences in spectral signatures from various features, which can also us to identify them more easily. Knowledge of the spectral signature of a feature of interest is vital in finding the best visualization for it given a specific satllite image. In this tutorial, the bands for visualizing burn scars in a false color 
-composite have already been chosen for you so you don't have to worry about finding the exact combination to properly identify the scars!
-
-Now that you've been introducted to false and natural color composites, navigate to the tutorial and see what you find.
+False color composites allow us to visualize wavelengths that the human eye can not see (i.e. near-infrared). Using bands such as near-infrared increases the differences in spectral signatures from various features, which can also us to identify them more easily. Knowledge of the spectral signature of a feature of interest is vital in finding the best visualization for it given a specific satllite image. In this tutorial, the bands for visualizing burn scars in a false color composite have already been chosen for you so you don't have to worry about finding the exact combination to properly identify the scars!
 
 ### Link to code
 <div>
@@ -64,31 +55,38 @@ Now that you've been introducted to false and natural color composites, navigate
 </figure>
 </div>
 
+### Burn Scar in California
+
+Now that you've looked at burn scars in the Australian bushfires we are going to take a look at the effects of the SCU Lightning Complex fires in California in 2020. After observing changes in the landscape in the Australia example, see what you notice in this tutorial.
+
+https://gldoyle.users.earthengine.app/view/burnscarcalifornia
+
+
 ### Questions to consider:
 1. What differences do you notice between natural color and false color composites (if any)?
 2. Do you notice other features aside from burn scars that become either easier or harder to detect with the false color composite?
 3. How do you think the bands for the false color composite were chosen?
+4. Do you find it easier to idenify burn scars in either the California example or the Australia example? Why do you think this might be?
 
-## Vegetation Tutorial
+## Using Band Ratios to Detect Burn Scars
 
-Now that you've had a chance to look at burn scars from wildfires we will look at vegetation using natural and false color composites. In this tutorial we will also look at the Normalized Difference Vegetation Index (NDVI).
+Now that you've had a chance to explore some of the differences between natural and false color composites, we are going to look at how band ratios can show us interesting trends in the landscape. 
 
-In remote sensing, band indices such as NDVI are combinations of pixel values from 2 or more spectral bands in a multispectral image. They are used to highlight specific aspects of land cover, for example, the NDVI is a good demonstrator of vegetation health.
+In remote sensing, **band indices** such as the **Normalized Difference Vegetation Index (NDVI)**  are combinations of pixel values from 2 or more spectral bands in a multispectral image. They are used to highlight specific aspects of land cover, for example, the NDVI is a good demonstrator of vegetation health. In this tutorial we'll be looking at the **difference in Normalized Burn Ratio (dNBR)** this ratio shows us the difference in burn severity of a landscape over time, in this case, before the wildfire and after the wildfire.
 
-In the following tutorial you'll get to look at natural and false color composites in a new context, and you'll also get to explore a new concept.
+In the following tutorial you'll get to look at natural and false color composites and compare them to the dNBR.
 
-<img width="1063" alt="Screen Shot 2021-11-21 at 12 38 26 PM" src="https://user-images.githubusercontent.com/63744379/142772935-828225ad-b568-4e3f-9bba-814d4740a546.png">
+
+<img width="908" alt="Screen Shot 2021-11-28 at 7 51 01 PM" src="https://user-images.githubusercontent.com/63744379/143793601-40c053d2-c30d-41b8-b524-65ad4f818fab.png">
 
 ### Link to code
-https://gldoyle.users.earthengine.app/view/vegetationtutorial
+https://gldoyle.users.earthengine.app/view/burnscarindices
 
 ### Questions to consider:
-1. What advantages does displaying an NDVI have?
-2. What are colors in the NDVI image representing?
-3. Why does the NDVI image look so difference from the natural and false color composites?
-4. What does bright red represent in the false color composite?
-5. Do you notice changes in the Amazon from 2014 to 2020?
+1. What advantages does displaying an dNBR have?
+2. What are colors in the dNBR image representing?
+3. Why does the dNBR image look so difference from the natural and false color composites?
+4. What does bright red represent in the false color composite? (Use clues from the natural color composite layers and think about what the change after the wildfire in the false color composite can tell you about what bright red represents)
 
-If you are interested in looking at different regions, use the tutorial as a base and use zoom/pan to find a particular region to look at! One future investigation could be to look at how the NDVI shows differences between tropical places like the Amazon versus more arid places like countries in Northern Africa.
 
 
