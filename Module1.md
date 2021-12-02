@@ -84,5 +84,9 @@ https://gldoyle.users.earthengine.app/view/burnscarindices
 3. Why does the dNBR image look so difference from the natural and false color composites?
 4. What does bright red represent in the false color composite? (Use clues from the natural color composite layers and think about what the change after the wildfire in the false color composite can tell you about what bright red represents)
 
+## Spectral Signatures
+
+For this last tutorial we will look at spectral signatures of objects 
+
 
 
