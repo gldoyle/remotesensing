@@ -86,7 +86,17 @@ https://gldoyle.users.earthengine.app/view/burnscarindices
 
 ## Spectral Signatures
 
-For this last tutorial we will look at spectral signatures of objects 
+In this last tutorial we will take a deeper dive into the individual bands that are used in natural and false color composites as well as in band ratios such as the **Normalized Burn Ratio** in order to better understand spectral signatures. 
+
+In this lesson you’ll have the chance to look at the values of each of the bands used in the various composites in order to gain insight on why using band ratios can be helpful in identifying certain features as well as why false color composites can be powerful in identifying features as well.
+
+https://gldoyle.users.earthengine.app/view/spectral
+
+### Questions to consider:
+1. What are the differences you notice between the spectral signature of a feature like burned land vs water?
+2. Which bands change the most between before the wildfire and after the wildfire in the burned areas?
+
+
 
 
 
