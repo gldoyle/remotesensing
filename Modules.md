@@ -48,7 +48,7 @@ In this example, you can see some of the burn scars faintly appear by using the 
 
 False color composites allow us to visualize wavelengths that the human eye can not see (i.e. near-infrared). Using bands such as near-infrared increases the differences in spectral signatures from various features, which can also us to identify them more easily. Knowledge of the spectral signature of a feature of interest is vital in finding the best visualization for it given a specific satllite image. In this tutorial, the bands for visualizing burn scars in a false color composite have already been chosen for you so you don't have to worry about finding the exact combination to properly identify the scars!
 
-### Link to code
+### Link to app
 https://gldoyle.users.earthengine.app/view/burnscarexploration
 
 ### Burn Scar in California
@@ -75,13 +75,13 @@ In the following tutorial you'll get to look at natural and false color composit
 
 <img width="908" alt="Screen Shot 2021-11-28 at 7 51 01 PM" src="https://user-images.githubusercontent.com/63744379/143793601-40c053d2-c30d-41b8-b524-65ad4f818fab.png">
 
-### Link to code
+### Link to app
 https://gldoyle.users.earthengine.app/view/burnscarindices
 
 ### Questions to consider:
 1. What advantages does displaying an dNBR have?
 2. What are colors in the dNBR image representing?
-3. Why does the dNBR image look so difference from the natural and false color composites?
+3. Why does the dNBR image look so different from the natural and false color composites?
 4. What does bright red represent in the false color composite? (Use clues from the natural color composite layers and think about what the change after the wildfire in the false color composite can tell you about what bright red represents)
 
 ## Spectral Signatures
