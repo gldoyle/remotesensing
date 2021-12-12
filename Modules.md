@@ -91,7 +91,9 @@ In the last tutorial you had the chance to look at the spectral signatures in th
 
 In the following tutorial you'll get to look at natural and false color composites and compare them to the dNBR. Think about what you are seeing in relation to the NBR formula!
 
-<img width="908" alt="Screen Shot 2021-11-28 at 7 51 01 PM" src="https://user-images.githubusercontent.com/63744379/143793601-40c053d2-c30d-41b8-b524-65ad4f818fab.png">
+<img width="776" alt="Screen Shot 2021-12-12 at 2 14 01 PM" src="https://user-images.githubusercontent.com/63744379/145726169-0ea82f2d-d495-4730-b59b-98205012409a.png">
+
+(In this image you can see the dNBR and its legend on the left panel and a false color composite on the right)
 
 ### Link to app
 https://gldoyle.users.earthengine.app/view/burnscarindices
