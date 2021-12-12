@@ -42,7 +42,7 @@ Here is what the application looks like. The image on the left of the slider rep
 
 ![demo](https://user-images.githubusercontent.com/63744379/143724812-214d1f01-f036-48dd-abbf-3a99a804ccf4.gif)
 
-![demo1](https://user-images.githubusercontent.com/63744379/145725952-050ab87c-dde7-440a-8646-f80b3d55854a.gif)
+![demo1](https://user-images.githubusercontent.com/63744379/145726013-58ff87a0-1aba-412e-bf32-1f90f648a41a.gif)
 
 
 You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see. To do this, navigate to panel on the side to toggle between the natural color composite and the false color composite.
