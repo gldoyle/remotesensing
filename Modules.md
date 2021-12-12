@@ -42,6 +42,9 @@ Here is what the application looks like. The image on the left of the slider rep
 
 ![demo](https://user-images.githubusercontent.com/63744379/143724812-214d1f01-f036-48dd-abbf-3a99a804ccf4.gif)
 
+![demo1](https://user-images.githubusercontent.com/63744379/145725952-050ab87c-dde7-440a-8646-f80b3d55854a.gif)
+
+
 You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see. To do this, navigate to panel on the side to toggle between the natural color composite and the false color composite.
 
 In this example, you can see some of the burn scars faintly appear by using the slider to see the before and after images and areas of change. Notice how when you turn on the false color composite layers to visualize the scene before and after the Australian bushfires, the change is more distinct. In this case we are using bands other than the traditional Red, Green and Blue to get a better picture of the burn scars based on their **spectral signatures** (the variation of reflectance of an object on the ground with respect to wavelengths). 
