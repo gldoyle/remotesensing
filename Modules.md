@@ -42,14 +42,23 @@ Here is what the application looks like. The image on the left of the slider rep
 
 ![demo](https://user-images.githubusercontent.com/63744379/143724812-214d1f01-f036-48dd-abbf-3a99a804ccf4.gif)
 
-You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see. To do this, navigate to the 'Layers' widget in the upper right corner to turn on different composite layers for each side of the panel. 
+You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see. To do this, navigate to panel on the side to toggle between the natural color composite and the false color composite.
 
 In this example, you can see some of the burn scars faintly appear by using the slider to see the before and after images and areas of change. Notice how when you turn on the false color composite layers to visualize the scene before and after the Australian bushfires, the change is more distinct. In this case we are using bands other than the traditional Red, Green and Blue to get a better picture of the burn scars based on their **spectral signatures** (the variation of reflectance of an object on the ground with respect to wavelengths). 
 
 False color composites allow us to visualize wavelengths that the human eye can not see (i.e. near-infrared). Using bands such as near-infrared increases the differences in spectral signatures from various features, which can also us to identify them more easily. Knowledge of the spectral signature of a feature of interest is vital in finding the best visualization for it given a specific satllite image. In this tutorial, the bands for visualizing burn scars in a false color composite have already been chosen for you so you don't have to worry about finding the exact combination to properly identify the scars!
 
+
 ### Link to app
 https://gldoyle.users.earthengine.app/view/burnscarexploration
+
+Look for burn scars in the landscape. Here is an example of what one looks like (hint: using the false color composite makes them easier to identify!)
+
+Before the wildfire:
+<img width="350" alt="before" src="https://user-images.githubusercontent.com/63744379/145698226-8585dafd-98f4-47ab-9a58-40da0eedf177.png">
+
+After the wildfire:
+<img width="461" alt="after" src="https://user-images.githubusercontent.com/63744379/145698230-b5b299ae-b640-4451-82e2-7bbaaee5260e.png">
 
 ### Burn Scar in California
 
