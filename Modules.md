@@ -68,13 +68,27 @@ https://gldoyle.users.earthengine.app/view/burnscarcalifornia
 2. Do you notice other features aside from burn scars that become either easier or harder to detect with the false color composite?
 3. Do you find it easier to idenify burn scars in either the California example or the Australia example? Why do you think this might be?
 
+## Spectral Signatures
+
+In this next tutorial we will take a deeper dive into the individual bands that are used in natural and false color composites as well as in band ratios such as the **Normalized Burn Ratio** in order to better understand spectral signatures. 
+
+In this lesson you’ll have the chance to look at the values of each of the bands used in the various composites in order to gain insight on why using band ratios can be helpful in identifying certain features as well as why false color composites can be powerful in identifying features as well.
+
+https://gldoyle.users.earthengine.app/view/spectral
+
+### Questions to consider:
+1. What are the differences you notice between the spectral signature of a feature like burned land vs water?
+2. Which bands change the most between before the wildfire and after the wildfire in the burned areas?
+
 ## Using Band Ratios to Detect Burn Scars
 
-Now that you've had a chance to explore some of the differences between natural and false color composites, we are going to look at how band ratios can show us interesting trends in the landscape. 
+Now that you've had a chance to explore some of the differences between natural and false color composites and the spectral signatures of burn scars, we are going to look at how band ratios can show us interesting trends in the landscape. 
 
 In remote sensing, **band indices** such as the **Normalized Difference Vegetation Index (NDVI)**  are combinations of pixel values from 2 or more spectral bands in a multispectral image. They are used to highlight specific aspects of land cover, for example, the NDVI is a good demonstrator of vegetation health. In this tutorial we'll be looking at the **difference in Normalized Burn Ratio (dNBR)** this ratio shows us the difference in burn severity of a landscape over time, in this case, before the wildfire and after the wildfire.
 
-In the following tutorial you'll get to look at natural and false color composites and compare them to the dNBR.
+In the last tutorial you had the chance to look at the spectral signatures in the California wildfire Landsat8 imagery (Landsat8 is one of many satellite missions that collect remotely sensed data). You may have noticed the more dramatic change in bands 7 (representing Short-Wave Infrared SWIR) and 5 (representing Near Infrared NIR) between the before and after images (larger slope in the lines drawn in the spectral chart) in the burned areas. We are going to take advantage of this difference by using the difference in Normalized Burn Ratio which will look at the difference in bands 7 and 5. The formula for the Normalized Burn Ratio is: (SWIR - NIR / (SWIR + NIR)) which is the same in this case as (B5 - B7 / (B5 + B7)). To find the difference in NBR we take the difference between the NBR from before the wildfire and the NBR from after the wildfire. 
+
+In the following tutorial you'll get to look at natural and false color composites and compare them to the dNBR. Think about what you are seeing in relation to the NBR formula!
 
 
 <img width="908" alt="Screen Shot 2021-11-28 at 7 51 01 PM" src="https://user-images.githubusercontent.com/63744379/143793601-40c053d2-c30d-41b8-b524-65ad4f818fab.png">
@@ -87,15 +101,3 @@ https://gldoyle.users.earthengine.app/view/burnscarindices
 2. What are colors in the dNBR image representing?
 3. Why does the dNBR image look so different from the natural and false color composites?
 4. What does bright red represent in the false color composite? (Use clues from the natural color composite layers and think about what the change after the wildfire in the false color composite can tell you about what bright red represents)
-
-## Spectral Signatures
-
-In this last tutorial we will take a deeper dive into the individual bands that are used in natural and false color composites as well as in band ratios such as the **Normalized Burn Ratio** in order to better understand spectral signatures. 
-
-In this lesson you’ll have the chance to look at the values of each of the bands used in the various composites in order to gain insight on why using band ratios can be helpful in identifying certain features as well as why false color composites can be powerful in identifying features as well.
-
-https://gldoyle.users.earthengine.app/view/spectral
-
-### Questions to consider:
-1. What are the differences you notice between the spectral signature of a feature like burned land vs water?
-2. Which bands change the most between before the wildfire and after the wildfire in the burned areas?
