@@ -78,8 +78,8 @@ In this lesson you’ll have the chance to look at the values of each of the ban
 https://gldoyle.users.earthengine.app/view/spectral
 
 ### Questions to consider:
-1. What are the differences you notice between the spectral signature of a feature like burned land vs water?
-2. Which bands change the most between before the wildfire and after the wildfire in the burned areas?
+1. What are the differences you notice between the spectral signature of a feature like burned land vs water? (Hint: there are two bands that show two distinct patterns)
+2. Which (two) bands change the most between before the wildfire and after the wildfire in the burned areas?
 
 ## Using Band Ratios to Detect Burn Scars
 
@@ -99,7 +99,16 @@ In the following tutorial you'll get to look at natural and false color composit
 https://gldoyle.users.earthengine.app/view/burnscarindices
 
 ### Questions to consider:
-1. What advantages does displaying an dNBR have?
-2. What are colors in the dNBR image representing?
-3. Why does the dNBR image look so different from the natural and false color composites?
-4. What does bright red represent in the false color composite? (Use clues from the natural color composite layers and think about what the change after the wildfire in the false color composite can tell you about what bright red represents)
+1. Why does the dNBR image look so different from the natural and false color composites?
+2. What advantages does displaying an dNBR have? 
+3. What does bright red represent in the false color composite? (Use clues from the natural color composite layers and think about what the change after the wildfire in the false color composite can tell you about what bright red represents). 
+
+
+If you are wondering why this false color composite appears very red while the false color composite in the previous California example appears very green- that is because the band being displayed in the red channel is the strongest! In this case the band combination being used is B5, B4, B3 in the respective Red, Green and Blue channels so B5 has the strongest radiation emittance. B5 in this imagery represents Near-Infrared which does a good job detecting vegetation so the image appears very red.
+
+
+## Conclusions
+
+Thank you for taking the time to go through these tutorials- I hope that this sparked your interest in exploring the world beyond the visible light spectrum and that you learned something in the process. If you are interested in exploring more on your own, I would encourage you to do some additional reading on Remote Sensing and then look into visualizing satellite imagery yourself in Google Earth Engine which is the tool I used to create the interactive apps in these tutorials.
+
+
