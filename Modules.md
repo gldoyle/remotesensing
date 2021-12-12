@@ -40,10 +40,7 @@ Before you navigate to the app, however, let's discuss what you'll be seeing the
 
 Here is what the application looks like. The image on the left of the slider represents what the landscape in Australia looked like before the wildfires devastated the region and the right image depicts the landscape post-wildfire. The default display is natural color composites which show what the landscape looks like in the visible light spectrum (which is the section of the Electromagentic Spectrum which the human eye can see). The satellites that acquire images of the Earth also collect information beyond the visible light spectrum which is a powerful way to visualize features since we can use different spectral bands.
 
-![demo](https://user-images.githubusercontent.com/63744379/143724812-214d1f01-f036-48dd-abbf-3a99a804ccf4.gif)
-
-![demo1](https://user-images.githubusercontent.com/63744379/145726013-58ff87a0-1aba-412e-bf32-1f90f648a41a.gif)
-
+![demo1](https://user-images.githubusercontent.com/63744379/145726062-0d3469c3-f70f-470a-ada0-659c68707130.gif)
 
 You can change the layers to display the false color composites which help identify features whose spectral signature is more distinct in bands other than those with which our eyes can see. To do this, navigate to panel on the side to toggle between the natural color composite and the false color composite.
 
