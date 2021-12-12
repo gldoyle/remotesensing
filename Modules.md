@@ -55,10 +55,10 @@ https://gldoyle.users.earthengine.app/view/burnscarexploration
 Look for burn scars in the landscape. Here is an example of what one looks like (hint: using the false color composite makes them easier to identify!)
 
 Before the wildfire:
-<img width="350" alt="before" src="https://user-images.githubusercontent.com/63744379/145698226-8585dafd-98f4-47ab-9a58-40da0eedf177.png">
+<img width="350" height="350" alt="before" src="https://user-images.githubusercontent.com/63744379/145698226-8585dafd-98f4-47ab-9a58-40da0eedf177.png">
 
 After the wildfire:
-<img width="350" alt="after" src="https://user-images.githubusercontent.com/63744379/145698230-b5b299ae-b640-4451-82e2-7bbaaee5260e.png">
+<img width="350" height="350"  alt="after" src="https://user-images.githubusercontent.com/63744379/145698230-b5b299ae-b640-4451-82e2-7bbaaee5260e.png">
 
 ### Burn Scar in California
 
