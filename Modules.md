@@ -66,8 +66,7 @@ https://gldoyle.users.earthengine.app/view/burnscarcalifornia
 ### Questions to consider:
 1. What differences do you notice between natural color and false color composites (if any)?
 2. Do you notice other features aside from burn scars that become either easier or harder to detect with the false color composite?
-3. How do you think the bands for the false color composite were chosen?
-4. Do you find it easier to idenify burn scars in either the California example or the Australia example? Why do you think this might be?
+3. Do you find it easier to idenify burn scars in either the California example or the Australia example? Why do you think this might be?
 
 ## Using Band Ratios to Detect Burn Scars
 
