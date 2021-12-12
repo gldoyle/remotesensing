@@ -90,7 +90,6 @@ In the last tutorial you had the chance to look at the spectral signatures in th
 
 In the following tutorial you'll get to look at natural and false color composites and compare them to the dNBR. Think about what you are seeing in relation to the NBR formula!
 
-
 <img width="908" alt="Screen Shot 2021-11-28 at 7 51 01 PM" src="https://user-images.githubusercontent.com/63744379/143793601-40c053d2-c30d-41b8-b524-65ad4f818fab.png">
 
 ### Link to app
